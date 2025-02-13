@@ -41,8 +41,7 @@ Installation & Setup
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/steganography-aes.git
-cd steganography-aes
+git clone https://github.com/VikiSonwane/SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY.git
 
 2. Install Required Dependencies
 
@@ -93,7 +92,7 @@ License
 
 This project is licensed under the MIT License.
 
-🔹 Author: Your Name
-🔹 GitHub: YourUsername
-🔹 Email: your.email@example.com
+🔹 Author: Viki Sonwane
+🔹 GitHub: VikiSonwane
+🔹 Email: vikisonwane2001@gmail.com
 
